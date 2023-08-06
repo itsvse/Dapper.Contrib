@@ -10,9 +10,8 @@
     <PackageReleaseNotes>https://dapperlib.github.io/Dapper.Contrib/</PackageReleaseNotes>
     <PackageProjectUrl>https://github.com/DapperLib/Dapper.Contrib</PackageProjectUrl>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
-    <PackageIcon>Dapper.png</PackageIcon>
     <RepositoryType>git</RepositoryType>
-    <RepositoryUrl>https://github.com/DapperLib/Dapper.Contrib</RepositoryUrl>
+    <RepositoryUrl>https://github.com/itsvse/Dapper.Contrib</RepositoryUrl>
     <Deterministic>false</Deterministic>
     <NoWarn>$(NOWARN);IDE0056;IDE0057;IDE0079</NoWarn>
     <DebugSymbols>true</DebugSymbols>

@@ -1,9 +1,9 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <AssemblyName>Dapper.Contrib</AssemblyName>
-    <Title>Dapper.Contrib</Title>
-    <PackageTags>orm;sql;micro-orm;dapper</PackageTags>
-    <Description>The official collection of get, insert, update and delete helpers for Dapper.net. Also handles lists of entities and optional "dirty" tracking of interface-based entities.</Description>
+    <AssemblyName>Dapper.Contrib.Unofficial</AssemblyName>
+    <Title>Dapper.Contrib.Unofficial</Title>
+    <PackageTags>orm;sql;micro-orm;dapper;unofficial</PackageTags>
+    <Description>The official collection of get, insert, update and delete helpers for Dapper.net. Also handles lists of entities and optional "dirty" tracking of interface-based entities.(Fixed the issue of 'value is too large or too small for Int32', Did not conduct integrity testing, please use with caution)</Description>
     <Authors>Sam Saffron;Johan Danforth</Authors>
     <TargetFrameworks>net461;netstandard2.0;net5.0</TargetFrameworks>
     <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
